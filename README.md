@@ -8,11 +8,11 @@
 - Uncovering the secrets of Python and the art of algorithms.
 
 🚀 **Tech Arsenal:**
-- Languages: C (battle-tested), Shell (in the works), Python (learning)
+- Languages: C **🥰**, Shell, Python (learning)
 - Tools: Ubuntu terminal, Git, Linux enthusiast
-
+  
 🌐 **Ventures:**
-- Crafting digital experiences as an intern at Holberton School's Alx Africa.
+- Crafting digital experiences as an intern at Holberton School/Alx Africa.
 - Embarking on a Computer Science quest with University of The People, USA.
 
 💬 **Let's Connect:**
