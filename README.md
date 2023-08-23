@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hey there! 👋 I'm Vulcanric (John Eric)
 
-<!--
-**Vulcanric/Vulcanric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 
+> "Eat, Sleep, Code, Repeat!" 🍔💤💻🔁
 
-Here are some ideas to get you started:
+🌱 **Currently:**
+- Journeying through the paths of software development.
+- Uncovering the secrets of Python and the art of algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Tech Arsenal:**
+- Languages: C (battle-tested), Shell (in the works), Python (learning)
+- Tools: Ubuntu terminal, Git, Linux enthusiast
+
+🌐 **Ventures:**
+- Crafting digital experiences as an intern at Holberton School's Alx Africa.
+- Embarking on a Computer Science quest with University of The People, USA.
+
+💬 **Let's Connect:**
+- [LinkedIn](https://www.linkedin.com/in/johneric1)
+- [Twitter](https://twitter.com/JohnEri89510617)
+
+> "Eat, Sleep, Code, Repeat!" 🍔💤💻🔁
