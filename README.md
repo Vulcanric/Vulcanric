@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Vulcanric (John Eric)
+# Hey there! 👋 I'm John Eric
 
 ## About me 
 > "Eat, Sleep, Code, Repeat!" 🍔💤💻🔁
