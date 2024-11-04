@@ -15,5 +15,6 @@ Hi, I am John Eric<br>A curious, and deterministic fullstack software engineer s
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vulcanric&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Vulcanric&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
