@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hi, I am John Eric<br>A curious, and deterministic fullstack software engineer specializing in backend.<be>
-| I am as crazy as I look and can do anything.
+Hi, I am John Eric<br>A curious, and deterministic fullstack software engineer specializing in backend.<br>
+> I am as crazy as I look and can do anything.
 
 
 ## 🌐 Socials:
