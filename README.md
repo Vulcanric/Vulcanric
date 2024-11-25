@@ -1,7 +1,6 @@
 # 💫 About Me:
-### Fullstack Software engineer | 👾 Hacker 👾
-> I am as crazy as I look and can do anything.
-
+### Fullstack Software engineer
+> Results-driven software engineer with expertise in full-stack development, data structures, and algorithms. Passionate about delivering high-performance solutions that drive organizational success. Proactive, critical thinker, and adept at collaborating in team-driven environments.
 
 ## Socials 🌐:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kKZRtM7D) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/johneric1) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/jneric49) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21745967) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JohnEri89510617) 
