@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Fullstack Software engineer
+### Fullstack Software Engineer
 Hi, I'm Eric! I'm a passionate full-stack developer with experience in C, Python, Typescript, and React. I've built and maintained web applications from the ground up, focusing on clean, efficient, and scalable code. My journey started at a young age, driven by a love for problem-solving and creating innovative solutions. Recently, I've been working on a project that uses OCR and image-based product detection, applying modern technologies to real-world challenges. I'm committed to continuous learning and excited about any opportunity to collaborate and make a difference through tech. 🤝
 
 ## Socials 🌐:
